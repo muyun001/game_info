@@ -1,0 +1,5 @@
+PING 10.105.72.2 (10.105.72.2) 56(84) bytes of data.
+
+--- 10.105.72.2 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
